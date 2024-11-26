@@ -1,0 +1,21 @@
+{
+    "name": "R3.Unity.Editor.OdinInspector",
+    "rootNamespace": "",
+    "references": [
+        "R3.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "ODIN_INSPECTOR_3",
+        "!DONT_USE_ODIN_INSPECTOR_IN_R3"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
